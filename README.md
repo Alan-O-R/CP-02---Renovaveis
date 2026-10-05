@@ -1,4 +1,11 @@
 # Avaliação — APIs, energias renováveis e aprendizado de máquina
+## Nomes / rms
+- Gabriel de Paula Santos - Rm : 573195
+- Joao Lucas Silva Lopes - Rm : 573875
+- Enzo Ribeiro - Rm : 569429
+- Alan Otalvaro - Rm : 571794
+- joao Pedro ribeiro santos - Rm : 570562
+- Joao Pedro Evangelista - Rm : 573899
 
 ## Proposta
 
